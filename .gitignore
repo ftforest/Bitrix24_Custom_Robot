@@ -1,0 +1,6 @@
+auth.json
+config.php
+*.log
+.idea/
+.vscode/
+.DS_Store
