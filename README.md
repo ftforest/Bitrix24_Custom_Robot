@@ -74,7 +74,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/bitrix24-custom-robot.git
+git clone https://github.com/ftforest/Bitrix24_Custom_Robot.git bitrix24-custom-robot
 cd bitrix24-custom-robot
 ```
 
